@@ -9,7 +9,7 @@ This project implements a **K-Nearest Neighbors (KNN)** classifier to predict th
 To run this project, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/movie-genre-classifier.git
+   git clone https://github.com/siegelhannah/Movie-genre-classifier.git
 2. Navigate to the project directory:
    cd movie-genre-classifier
 4. Install required Python packages
