@@ -3,6 +3,7 @@
 ## Description
 
 This project implements a **K-Nearest Neighbors (KNN)** classifier to predict the genre of a movie based on the frequency of words in its description. Using **Euclidean distance**, the model compares the test movie's word frequency with those of training movies (with known genres) to determine the closest matches and classify the genre. The project demonstrates key skills in machine learning, including **KNN Classification**, **train/test/validation splitting**, **supervised learning**, **feature engineering**, and **data preprocessing**.
+This project was done for Data Science 102 at the University of Oregon.
 
 ## Installation Instructions
 
