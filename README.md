@@ -10,9 +10,9 @@ This project was done for Data Science 102 at the University of Oregon.
 To run this project, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/siegelhannah/Movie-genre-classifier.git
+   git clone https://github.com/siegelhannah/Movie-genre-classification.git
 2. Navigate to the project directory:
-   cd movie-genre-classifier
+   cd movie-genre-classification
 4. Install required Python packages
    pip install pandas numpy matplotlib scikit-learn jupyter
 
